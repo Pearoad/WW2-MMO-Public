@@ -1,0 +1,16 @@
+{
+  "content": {
+    "assets": [
+      "Assets"
+    ],
+    "code": [
+      "Code"
+    ]
+  },
+  "info": {
+    "name": "WW2 MMO Public"
+  },
+  "require": {
+    "engine": "engine-5.3"
+  }
+}
