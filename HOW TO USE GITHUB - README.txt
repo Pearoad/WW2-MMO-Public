@@ -9,6 +9,9 @@ https://github.com/fury22pl/WW2-MMO-Public
 
 Your repository is equal with our mutual repository in github now.
 
+Open Cryengine Launcher now and go to Library -> My Projects and in right up corner you hit "Import", find your repository (/Crytek/WW2-MMO-Public), highlight it and press Ok
+That's it. Your project is ready now!
+
 Now... What do you do if you have made any changes, or you have created new files to the project (3d models etc, whatever).
 Once your changes are ready to public for the rest of the team, there are two ways.
 
