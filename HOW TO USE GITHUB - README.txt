@@ -28,18 +28,20 @@ Once your changes are ready to public for the rest of the team:
 
 Now... What to do if someone else updated our repository on github, and you want to be up-to-date?
 
-1. If you want to completely replace your repository by our github repository:
+1. Pull method:
    - /Crytek/WW2-MMO-Public/ right-click
    - Git Sync...
    - Remote Branch : master (we are going to use master to update our repositories. I will keep merging test branch with master branch, just to keep it tidy. Master branch will be used as a working project)
    - Hit "Pull"
-   !!! Note that this will REMOVE all your new files, that are not the same as in repository!!!
 
-2. If you want to merge repository with github repository (this will be something we'll use the most of time)
+
+2. Fetch method:
    - /Crytek/WW2-MMO-Public/ right-click
    - Git Sync...
    - Remote Branch : master
    - On the "Pull" button you'll see an arrow. Hit it and choose "Fetch"
-   !!!This will replace existing files with the files from github without deleting your new files!!!
 
 
+Not sure what's the difference though. I use Pull most of the time.
+
+Just in case until we learn to use it properly, please have copy of your files somewhere.
